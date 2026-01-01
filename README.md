@@ -133,4 +133,7 @@ Key Features
 🧾 Conclusion
 
 This repository demonstrates a real-world real-time data engineering pipeline, showcasing how streaming systems are built using modern distributed technologies.
-#Thankyou
+
+# Thankyou 
+# Reach out on 112215021@cse.iiitp.ac.in for any queries
+
