@@ -50,7 +50,9 @@ Apache Spark (Real-Time Processing)
 Apache Cassandra (Time-Series Analytics Storage)
 
 ---
+
 Final Visualization in Power Bi in Clustered Bar Charts different Categories:
+
 <img width="1908" height="982" alt="Screenshot 2026-01-01 214542" src="https://github.com/user-attachments/assets/9446eac3-28c1-4f98-8793-66507cfdf080" />
 
 ## 🛠️ Tech Stack
@@ -115,8 +117,6 @@ Key Features
 --Scalable time-series storage
 --Fully dockerized environment
 
-
-
 🎯 Learning Outcomes
 --End-to-end real-time data pipeline design
 --Kafka consumer groups and partition-based parallelism
@@ -131,9 +131,9 @@ Key Features
 --Schema registry and Avro serialization
 
 🧾 Conclusion
-
 This repository demonstrates a real-world real-time data engineering pipeline, showcasing how streaming systems are built using modern distributed technologies.
 
 # Thankyou 
+
 # Reach out on 112215021@cse.iiitp.ac.in for any queries
 
