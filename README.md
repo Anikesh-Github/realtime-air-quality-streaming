@@ -130,6 +130,9 @@ Key Features
 --Dashboard integration (Grafana / Power BI
 --Schema registry and Avro serialization
 
+
+
+
 🧾 Conclusion
 
 This repository demonstrates a real-world real-time data engineering pipeline, showcasing how streaming systems are built using modern distributed technologies.
